@@ -1,7 +1,9 @@
 # socket-programing-example
-Start the server by running `./server.c`
+Compile given c programs
 
-Start the client by running `./client.c hostname`
+Start the server by running `./server`
+
+Then, start the client by running `./client hostname`
 
 Local hostname can be obtained through `cat /etc/hostname`
 
