@@ -10,5 +10,4 @@ Local hostname can be obtained through `cat /etc/hostname`
 If you want to connect to a remote machine, use its public ip in place of hostname
 
 
-
-https://github.com/user-attachments/assets/2fb4d2d4-fe3d-407f-a6fa-8598b3447b2f
+![showcase](https://github.com/user-attachments/assets/930894bc-e2a3-4dc5-8d0a-05680728b835)
